@@ -16,3 +16,9 @@
 
  - Lecture
     -  [Failure Detection and Leader Election](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_3.ipynb)
+
+4.  **Replication and Consistency**
+
+ - Lecture
+    -  [Replication and Consistency](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_4.ipynb)
+
