@@ -25,4 +25,4 @@
 5.  **Anti-entropy and Dissemination**
 
  - Lecture
-    -  [Replication and Consistency](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_5.ipynb)
+    -  [Anti-entropy and Dissemination](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_5.ipynb)
