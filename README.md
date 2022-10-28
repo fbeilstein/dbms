@@ -6,7 +6,7 @@
     -  [Introduction DB](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_1.ipynb)
     
     
-2.  **Concurren execution, CAP theorem**
+2.  **Concurrent execution, CAP theorem**
 
  - Lecture
     -  [Concurrent execution, CAP theorem](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_2.ipynb)
@@ -22,3 +22,7 @@
  - Lecture
     -  [Replication and Consistency](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_4.ipynb)
 
+5.  **Anti-entropy and Dissemination**
+
+ - Lecture
+    -  [Replication and Consistency](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_5.ipynb)
