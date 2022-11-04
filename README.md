@@ -26,3 +26,8 @@
 
  - Lecture
     -  [Anti-entropy and Dissemination](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_5.ipynb)
+
+6.  **Distributed Transactions**
+
+ - Lecture
+    -  [Distributed Transactions](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_6.ipynb)
