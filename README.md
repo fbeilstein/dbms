@@ -31,3 +31,8 @@
 
  - Lecture
     -  [Distributed Transactions](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_6.ipynb)
+    
+7.  **Paxos**
+
+ - Lecture
+    -  [Paxos](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_7.ipynb)
