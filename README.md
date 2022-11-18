@@ -32,7 +32,12 @@
  - Lecture
     -  [Distributed Transactions](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_6.ipynb)
     
-7.  **Consensus, Paxos Algorithm**
+7.  **Consensus: Paxos Algorithm**
 
  - Lecture
-    -  [Consensus, Paxos Algorithm](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_7.ipynb)
+    -  [Consensus: Paxos Algorithm](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_7.ipynb)
+
+8.  **Consensus: RAFT, PBFT**
+
+ - Lecture
+    -  [Consensus: RAFT, PBFT](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_8.ipynb)
