@@ -41,3 +41,8 @@
 
  - Lecture
     -  [Consensus: RAFT, PBFT](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_8.ipynb)
+    
+9.  **CS:GO**
+
+ - Lecture
+    -  [Counter Strike](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_9.ipynb)
