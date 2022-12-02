@@ -46,3 +46,8 @@
 
  - Lecture
     -  [Counter Strike](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_9.ipynb)
+    
+10.  **B-Tree: split, merge**
+
+ - Lecture
+    -  [B-Tree: split, merge](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_10.ipynb)
