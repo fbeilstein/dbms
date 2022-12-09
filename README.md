@@ -51,3 +51,8 @@
 
  - Lecture
     -  [B-Tree: split, merge](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_10.ipynb)
+    
+11.  **File formats**
+
+ - Lecture
+    -  [File formats](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_11.ipynb)
