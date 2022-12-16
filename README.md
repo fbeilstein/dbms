@@ -60,4 +60,4 @@
 12.  **B-Tree: certain implemetation details**
 
  - Lecture
-    -  [B-Tree: certain implemetation details](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_11.ipynb)
+    -  [B-Tree: certain implemetation details](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_12.ipynb)
