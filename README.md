@@ -56,3 +56,8 @@
 
  - Lecture
     -  [File formats](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_11.ipynb)
+    
+12.  **B-Tree: certain implemetation details**
+
+ - Lecture
+    -  [B-Tree: certain implemetation details](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_11.ipynb)
