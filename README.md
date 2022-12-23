@@ -61,3 +61,8 @@
 
  - Lecture
     -  [B-Tree: certain implemetation details](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_12.ipynb)
+    
+13.  **Concurrency Control**
+
+ - Lecture
+    -  [Concurrency Control](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_13.ipynb)
