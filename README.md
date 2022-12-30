@@ -66,3 +66,8 @@
 
  - Lecture
     -  [Concurrency Control](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_13.ipynb)
+
+14.  **Buffer Management**
+
+ - Lecture
+    -  [Buffer Management](https://colab.research.google.com/github/fbeilstein/dbms/blob/master/DB_lecture_14.ipynb)
